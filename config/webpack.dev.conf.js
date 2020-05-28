@@ -18,7 +18,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         ws: true,
       },
     ],
-    allowedHosts: [".ke.com"],
+    allowedHosts: [".xx.com"],
     clientLogLevel: "trace",
     host: "0.0.0.0",
     hot: true,
